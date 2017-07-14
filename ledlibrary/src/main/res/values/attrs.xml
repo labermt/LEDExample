@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- ./src/main/res/values/attrs.xml -->
+
+<resources>
+
+<declare-styleable name="LEDView">
+    <attr name="color_border" format="color" />
+    <attr name="color_fill" format="color" />
+    <attr name="light_off" format="boolean" />
+    <attr name="light_on" format="boolean" />
+    <attr name="blink_duration" format="integer" />
+    <attr name="orientation" format="enum">
+        <enum name="up" value="0" />
+        <enum name="down" value="1" />
+        <enum name="right" value="2" />
+        <enum name="left" value="3" />
+    </attr>
+</declare-styleable>
+
+</resources>
