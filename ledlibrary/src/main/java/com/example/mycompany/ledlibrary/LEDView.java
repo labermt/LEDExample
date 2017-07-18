@@ -1,5 +1,62 @@
 // LEDExample/ledlibrary/src/main/java/com/example/mycompany/ledlibrary/LEDView.java
 
+/*
+<?xml version="1.0" encoding="utf-8"?>
+
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+            android:width="24dp"
+            android:height="32dp"
+            android:viewportWidth="24.0"
+            android:viewportHeight="32.0" >
+
+<group android:name="led_on">
+<path
+            android:name="bulb"
+                    android:strokeColor="@color/colorLed"
+                    android:fillColor="@color/colorLedFill"
+                    android:strokeWidth="1"
+                    android:pathData="M 21,20
+                    v -10
+                    a 9,9 0 0 0 -18,0
+                    v 10" />
+<path
+            android:name="reflection"
+                    android:strokeColor="@android:color/white"
+                    android:strokeWidth="1"
+                    android:strokeLineCap="round"
+                    android:pathData="M 12,4
+                    a 6,6 0 0 0 -6,6
+                    v 7" />
+<path
+            android:name="base"
+                    android:strokeColor="@color/colorLed"
+                    android:fillColor="@color/colorLedFill"
+                    android:strokeWidth="1"
+                    android:pathData="M 1,24
+                    h 22, v -4 h -22 Z" />
+<path
+            android:name="lead"
+                    android:strokeColor="@color/colorLed"
+                    android:fillColor="@color/colorLed"
+                    android:strokeWidth="1"
+                    android:pathData="M 7,24
+                    v 8
+                    M 17,24
+                    v 8" />
+<path
+            android:name="leadwide"
+                    android:strokeColor="@color/colorLed"
+                    android:fillColor="@color/colorLed"
+                    android:strokeWidth="3"
+                    android:pathData="M 7,24
+                    v 3
+                    M 17,24
+                    v 3" />
+</group>
+</vector>
+*/
+
 package com.example.mycompany.ledlibrary;
 
 import android.content.Context;
