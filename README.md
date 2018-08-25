@@ -333,4 +333,9 @@ Add the following to fragment_main.xml
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+---
+## Step 8: Review An Example Vector Drawable in the Comments:
 
+Review Comments in:
+
+https://github.com/labermt/LEDExample/blob/master/ledlibrary/src/main/java/com/example/mycompany/ledlibrary/LEDView.java
